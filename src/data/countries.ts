@@ -1,0 +1,25 @@
+import { CountryOption } from '../types';
+
+export const COUNTRIES: CountryOption[] = [
+  { name: 'Perú', code: 'PE', dialCode: '+51', flag: '🇵🇪' },
+  { name: 'Estados Unidos', code: 'US', dialCode: '+1', flag: '🇺🇸' },
+  { name: 'Chile', code: 'CL', dialCode: '+56', flag: '🇨🇱' },
+  { name: 'Colombia', code: 'CO', dialCode: '+57', flag: '🇨🇴' },
+  { name: 'Argentina', code: 'AR', dialCode: '+54', flag: '🇦🇷' },
+  { name: 'México', code: 'MX', dialCode: '+52', flag: '🇲🇽' },
+  { name: 'España', code: 'ES', dialCode: '+34', flag: '🇪🇸' },
+  { name: 'Brasil', code: 'BR', dialCode: '+55', flag: '🇧🇷' },
+  { name: 'Ecuador', code: 'EC', dialCode: '+593', flag: '🇪🇨' },
+  { name: 'Bolivia', code: 'BO', dialCode: '+591', flag: '🇧🇴' },
+  { name: 'Canadá', code: 'CA', dialCode: '+1', flag: '🇨🇦' },
+  { name: 'Alemania', code: 'DE', dialCode: '+49', flag: '🇩🇪' },
+  { name: 'Francia', code: 'FR', dialCode: '+33', flag: '🇫🇷' },
+  { name: 'Reino Unido', code: 'GB', dialCode: '+44', flag: '🇬🇧' },
+  { name: 'Italia', code: 'IT', dialCode: '+39', flag: '🇮🇹' },
+  { name: 'Australia', code: 'AU', dialCode: '+61', flag: '🇦🇺' },
+  { name: 'Uruguay', code: 'UY', dialCode: '+598', flag: '🇺🇾' },
+  { name: 'Paraguay', code: 'PY', dialCode: '+595', flag: '🇵🇾' },
+  { name: 'Costa Rica', code: 'CR', dialCode: '+506', flag: '🇨🇷' },
+  { name: 'Panamá', code: 'PA', dialCode: '+507', flag: '🇵🇦' },
+  { name: 'Otro país', code: 'OTHER', dialCode: '+', flag: '🌐' },
+];

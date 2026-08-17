@@ -1,0 +1,7 @@
+{
+  "name": "Lima VIP Travel - City Tour Lima",
+  "description": "Página web oficial de Lima VIP Travel para reservar tours prémium por Lima con atención directa por WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
